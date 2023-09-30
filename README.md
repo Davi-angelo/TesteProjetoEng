@@ -2,6 +2,6 @@
 
 Reconhecer carros com IA
 
-##SITE
+## SITE
 
--https://neptune.ai/blog/image-processing-python-libraries-for-machine-learning
+- https://neptune.ai/blog/image-processing-python-libraries-for-machine-learning
